@@ -1,0 +1,297 @@
+neighborhood,geoType,indicator,value,topic,displayTopic,type,format,order,topicOrder
+Connecticut,3_state,Total population,3588570,age,Age,table,",",1,1
+Waterbury,2_city,Total population,109211,age,Age,table,",",1,1
+Zip 06702,1_neighborhood,Total population,3057,age,Age,table,",",1,1
+Zip 06704,1_neighborhood,Total population,25537,age,Age,table,",",1,1
+Zip 06705,1_neighborhood,Total population,27195,age,Age,table,",",1,1
+Zip 06706,1_neighborhood,Total population,14637,age,Age,table,",",1,1
+Zip 06708,1_neighborhood,Total population,28310,age,Age,table,",",1,1
+Zip 06710,1_neighborhood,Total population,10521,age,Age,table,",",1,1
+Connecticut,3_state,Population under age 18,773652,age,Age,table,",",2,2
+Waterbury,2_city,Population under age 18,28119,age,Age,table,",",2,2
+Zip 06702,1_neighborhood,Population under age 18,433,age,Age,table,",",2,2
+Zip 06704,1_neighborhood,Population under age 18,6990,age,Age,table,",",2,2
+Zip 06705,1_neighborhood,Population under age 18,6796,age,Age,table,",",2,2
+Zip 06706,1_neighborhood,Population under age 18,3963,age,Age,table,",",2,2
+Zip 06708,1_neighborhood,Population under age 18,6453,age,Age,table,",",2,2
+Zip 06710,1_neighborhood,Population under age 18,3508,age,Age,table,",",2,2
+Connecticut,3_state,Percent under age 18,0.216,age,Age,map,.0%,3,3
+Waterbury,2_city,Percent under age 18,0.257,age,Age,map,.0%,3,3
+Zip 06702,1_neighborhood,Percent under age 18,0.142,age,Age,map,.0%,3,3
+Zip 06704,1_neighborhood,Percent under age 18,0.274,age,Age,map,.0%,3,3
+Zip 06705,1_neighborhood,Percent under age 18,0.25,age,Age,map,.0%,3,3
+Zip 06706,1_neighborhood,Percent under age 18,0.271,age,Age,map,.0%,3,3
+Zip 06708,1_neighborhood,Percent under age 18,0.228,age,Age,map,.0%,3,3
+Zip 06710,1_neighborhood,Percent under age 18,0.333,age,Age,map,.0%,3,3
+Connecticut,3_state,Population ages 65+,555023,age,Age,table,",",4,4
+Waterbury,2_city,Population ages 65+,13309,age,Age,table,",",4,4
+Zip 06702,1_neighborhood,Population ages 65+,876,age,Age,table,",",4,4
+Zip 06704,1_neighborhood,Population ages 65+,2697,age,Age,table,",",4,4
+Zip 06705,1_neighborhood,Population ages 65+,3561,age,Age,table,",",4,4
+Zip 06706,1_neighborhood,Population ages 65+,1556,age,Age,table,",",4,4
+Zip 06708,1_neighborhood,Population ages 65+,3783,age,Age,table,",",4,4
+Zip 06710,1_neighborhood,Population ages 65+,821,age,Age,table,",",4,4
+Connecticut,3_state,Percent ages 65+,0.155,age,Age,map,.0%,5,5
+Waterbury,2_city,Percent ages 65+,0.122,age,Age,map,.0%,5,5
+Zip 06702,1_neighborhood,Percent ages 65+,0.287,age,Age,map,.0%,5,5
+Zip 06704,1_neighborhood,Percent ages 65+,0.106,age,Age,map,.0%,5,5
+Zip 06705,1_neighborhood,Percent ages 65+,0.131,age,Age,map,.0%,5,5
+Zip 06706,1_neighborhood,Percent ages 65+,0.106,age,Age,map,.0%,5,5
+Zip 06708,1_neighborhood,Percent ages 65+,0.134,age,Age,map,.0%,5,5
+Zip 06710,1_neighborhood,Percent ages 65+,0.078,age,Age,map,.0%,5,5
+Connecticut,3_state,Total population,3588570,race,Race and ethnicity,table,",",1,6
+Waterbury,2_city,Total population,109211,race,Race and ethnicity,table,",",1,6
+Zip 06702,1_neighborhood,Total population,3057,race,Race and ethnicity,table,",",1,6
+Zip 06704,1_neighborhood,Total population,25537,race,Race and ethnicity,table,",",1,6
+Zip 06705,1_neighborhood,Total population,27195,race,Race and ethnicity,table,",",1,6
+Zip 06706,1_neighborhood,Total population,14637,race,Race and ethnicity,table,",",1,6
+Zip 06708,1_neighborhood,Total population,28310,race,Race and ethnicity,table,",",1,6
+Zip 06710,1_neighborhood,Total population,10521,race,Race and ethnicity,table,",",1,6
+Connecticut,3_state,Latino population,537728,race,Race and ethnicity,table,",",2,7
+Waterbury,2_city,Latino population,40034,race,Race and ethnicity,table,",",2,7
+Zip 06702,1_neighborhood,Latino population,1546,race,Race and ethnicity,table,",",2,7
+Zip 06704,1_neighborhood,Latino population,11508,race,Race and ethnicity,table,",",2,7
+Zip 06705,1_neighborhood,Latino population,8474,race,Race and ethnicity,table,",",2,7
+Zip 06706,1_neighborhood,Latino population,6484,race,Race and ethnicity,table,",",2,7
+Zip 06708,1_neighborhood,Latino population,6574,race,Race and ethnicity,table,",",2,7
+Zip 06710,1_neighborhood,Latino population,5478,race,Race and ethnicity,table,",",2,7
+Connecticut,3_state,Percent Latino,0.15,race,Race and ethnicity,map,.0%,3,8
+Waterbury,2_city,Percent Latino,0.367,race,Race and ethnicity,map,.0%,3,8
+Zip 06702,1_neighborhood,Percent Latino,0.506,race,Race and ethnicity,map,.0%,3,8
+Zip 06704,1_neighborhood,Percent Latino,0.451,race,Race and ethnicity,map,.0%,3,8
+Zip 06705,1_neighborhood,Percent Latino,0.312,race,Race and ethnicity,map,.0%,3,8
+Zip 06706,1_neighborhood,Percent Latino,0.443,race,Race and ethnicity,map,.0%,3,8
+Zip 06708,1_neighborhood,Percent Latino,0.232,race,Race and ethnicity,map,.0%,3,8
+Zip 06710,1_neighborhood,Percent Latino,0.521,race,Race and ethnicity,map,.0%,3,8
+Connecticut,3_state,White population,2464450,race,Race and ethnicity,table,",",4,9
+Waterbury,2_city,White population,43056,race,Race and ethnicity,table,",",4,9
+Zip 06702,1_neighborhood,White population,871,race,Race and ethnicity,table,",",4,9
+Zip 06704,1_neighborhood,White population,6382,race,Race and ethnicity,table,",",4,9
+Zip 06705,1_neighborhood,White population,11995,race,Race and ethnicity,table,",",4,9
+Zip 06706,1_neighborhood,White population,5303,race,Race and ethnicity,table,",",4,9
+Zip 06708,1_neighborhood,White population,16123,race,Race and ethnicity,table,",",4,9
+Zip 06710,1_neighborhood,White population,2361,race,Race and ethnicity,table,",",4,9
+Connecticut,3_state,Percent white,0.687,race,Race and ethnicity,map,.0%,5,10
+Waterbury,2_city,Percent white,0.394,race,Race and ethnicity,map,.0%,5,10
+Zip 06702,1_neighborhood,Percent white,0.285,race,Race and ethnicity,map,.0%,5,10
+Zip 06704,1_neighborhood,Percent white,0.25,race,Race and ethnicity,map,.0%,5,10
+Zip 06705,1_neighborhood,Percent white,0.441,race,Race and ethnicity,map,.0%,5,10
+Zip 06706,1_neighborhood,Percent white,0.362,race,Race and ethnicity,map,.0%,5,10
+Zip 06708,1_neighborhood,Percent white,0.57,race,Race and ethnicity,map,.0%,5,10
+Zip 06710,1_neighborhood,Percent white,0.224,race,Race and ethnicity,map,.0%,5,10
+Connecticut,3_state,Black population,347674,race,Race and ethnicity,table,",",6,11
+Waterbury,2_city,Black population,19879,race,Race and ethnicity,table,",",6,11
+Zip 06702,1_neighborhood,Black population,543,race,Race and ethnicity,table,",",6,11
+Zip 06704,1_neighborhood,Black population,6713,race,Race and ethnicity,table,",",6,11
+Zip 06705,1_neighborhood,Black population,4955,race,Race and ethnicity,table,",",6,11
+Zip 06706,1_neighborhood,Black population,1921,race,Race and ethnicity,table,",",6,11
+Zip 06708,1_neighborhood,Black population,3669,race,Race and ethnicity,table,",",6,11
+Zip 06710,1_neighborhood,Black population,2098,race,Race and ethnicity,table,",",6,11
+Connecticut,3_state,Percent black,0.097,race,Race and ethnicity,map,.0%,7,12
+Waterbury,2_city,Percent black,0.182,race,Race and ethnicity,map,.0%,7,12
+Zip 06702,1_neighborhood,Percent black,0.178,race,Race and ethnicity,map,.0%,7,12
+Zip 06704,1_neighborhood,Percent black,0.263,race,Race and ethnicity,map,.0%,7,12
+Zip 06705,1_neighborhood,Percent black,0.182,race,Race and ethnicity,map,.0%,7,12
+Zip 06706,1_neighborhood,Percent black,0.131,race,Race and ethnicity,map,.0%,7,12
+Zip 06708,1_neighborhood,Percent black,0.13,race,Race and ethnicity,map,.0%,7,12
+Zip 06710,1_neighborhood,Percent black,0.199,race,Race and ethnicity,map,.0%,7,12
+Connecticut,3_state,Other race population,238718,race,Race and ethnicity,table,",",8,13
+Waterbury,2_city,Other race population,6242,race,Race and ethnicity,table,",",8,13
+Zip 06702,1_neighborhood,Other race population,97,race,Race and ethnicity,table,",",8,13
+Zip 06704,1_neighborhood,Other race population,934,race,Race and ethnicity,table,",",8,13
+Zip 06705,1_neighborhood,Other race population,1771,race,Race and ethnicity,table,",",8,13
+Zip 06706,1_neighborhood,Other race population,929,race,Race and ethnicity,table,",",8,13
+Zip 06708,1_neighborhood,Other race population,1944,race,Race and ethnicity,table,",",8,13
+Zip 06710,1_neighborhood,Other race population,584,race,Race and ethnicity,table,",",8,13
+Connecticut,3_state,Percent other race,0.067,race,Race and ethnicity,map,.0%,9,14
+Waterbury,2_city,Percent other race,0.057,race,Race and ethnicity,map,.0%,9,14
+Zip 06702,1_neighborhood,Percent other race,0.032,race,Race and ethnicity,map,.0%,9,14
+Zip 06704,1_neighborhood,Percent other race,0.037,race,Race and ethnicity,map,.0%,9,14
+Zip 06705,1_neighborhood,Percent other race,0.065,race,Race and ethnicity,map,.0%,9,14
+Zip 06706,1_neighborhood,Percent other race,0.063,race,Race and ethnicity,map,.0%,9,14
+Zip 06708,1_neighborhood,Percent other race,0.069,race,Race and ethnicity,map,.0%,9,14
+Zip 06710,1_neighborhood,Percent other race,0.056,race,Race and ethnicity,map,.0%,9,14
+Connecticut,3_state,Total households,1354713,households,Households,table,",",1,15
+Waterbury,2_city,Total households,39735,households,Households,table,",",1,15
+Zip 06702,1_neighborhood,Total households,1587,households,Households,table,",",1,15
+Zip 06704,1_neighborhood,Total households,8926,households,Households,table,",",1,15
+Zip 06705,1_neighborhood,Total households,10154,households,Households,table,",",1,15
+Zip 06706,1_neighborhood,Total households,4886,households,Households,table,",",1,15
+Zip 06708,1_neighborhood,Total households,10738,households,Households,table,",",1,15
+Zip 06710,1_neighborhood,Total households,3448,households,Households,table,",",1,15
+Connecticut,3_state,Owner-occupied households,900223,households,Households,table,",",2,16
+Waterbury,2_city,Owner-occupied households,17367,households,Households,table,",",2,16
+Zip 06702,1_neighborhood,Owner-occupied households,40,households,Households,table,",",2,16
+Zip 06704,1_neighborhood,Owner-occupied households,3678,households,Households,table,",",2,16
+Zip 06705,1_neighborhood,Owner-occupied households,3924,households,Households,table,",",2,16
+Zip 06706,1_neighborhood,Owner-occupied households,2341,households,Households,table,",",2,16
+Zip 06708,1_neighborhood,Owner-occupied households,6293,households,Households,table,",",2,16
+Zip 06710,1_neighborhood,Owner-occupied households,1071,households,Households,table,",",2,16
+Connecticut,3_state,Homeownership rate,0.665,households,Households,map,.0%,3,17
+Waterbury,2_city,Homeownership rate,0.437,households,Households,map,.0%,3,17
+Zip 06702,1_neighborhood,Homeownership rate,0.025,households,Households,map,.0%,3,17
+Zip 06704,1_neighborhood,Homeownership rate,0.412,households,Households,map,.0%,3,17
+Zip 06705,1_neighborhood,Homeownership rate,0.386,households,Households,map,.0%,3,17
+Zip 06706,1_neighborhood,Homeownership rate,0.479,households,Households,map,.0%,3,17
+Zip 06708,1_neighborhood,Homeownership rate,0.586,households,Households,map,.0%,3,17
+Zip 06710,1_neighborhood,Homeownership rate,0.311,households,Households,map,.0%,3,17
+Connecticut,3_state,Poverty status known,3479672,income,Income,table,",",1,18
+Waterbury,2_city,Poverty status known,107447,income,Income,table,",",1,18
+Zip 06702,1_neighborhood,Poverty status known,2762,income,Income,table,",",1,18
+Zip 06704,1_neighborhood,Poverty status known,25434,income,Income,table,",",1,18
+Zip 06705,1_neighborhood,Poverty status known,26751,income,Income,table,",",1,18
+Zip 06706,1_neighborhood,Poverty status known,14582,income,Income,table,",",1,18
+Zip 06708,1_neighborhood,Poverty status known,27734,income,Income,table,",",1,18
+Zip 06710,1_neighborhood,Poverty status known,10230,income,Income,table,",",1,18
+Connecticut,3_state,Population in poverty,360464,income,Income,table,",",2,19
+Waterbury,2_city,Population in poverty,27291,income,Income,table,",",2,19
+Zip 06702,1_neighborhood,Population in poverty,1495,income,Income,table,",",2,19
+Zip 06704,1_neighborhood,Population in poverty,7952,income,Income,table,",",2,19
+Zip 06705,1_neighborhood,Population in poverty,4835,income,Income,table,",",2,19
+Zip 06706,1_neighborhood,Population in poverty,4090,income,Income,table,",",2,19
+Zip 06708,1_neighborhood,Population in poverty,5223,income,Income,table,",",2,19
+Zip 06710,1_neighborhood,Population in poverty,3693,income,Income,table,",",2,19
+Connecticut,3_state,Poverty rate,0.104,income,Income,map,.0%,3,20
+Waterbury,2_city,Poverty rate,0.254,income,Income,map,.0%,3,20
+Zip 06702,1_neighborhood,Poverty rate,0.541,income,Income,map,.0%,3,20
+Zip 06704,1_neighborhood,Poverty rate,0.313,income,Income,map,.0%,3,20
+Zip 06705,1_neighborhood,Poverty rate,0.181,income,Income,map,.0%,3,20
+Zip 06706,1_neighborhood,Poverty rate,0.28,income,Income,map,.0%,3,20
+Zip 06708,1_neighborhood,Poverty rate,0.188,income,Income,map,.0%,3,20
+Zip 06710,1_neighborhood,Poverty rate,0.361,income,Income,map,.0%,3,20
+Connecticut,3_state,Low-income population,812120,income,Income,table,",",4,21
+Waterbury,2_city,Low-income population,51861,income,Income,table,",",4,21
+Zip 06702,1_neighborhood,Low-income population,2166,income,Income,table,",",4,21
+Zip 06704,1_neighborhood,Low-income population,14196,income,Income,table,",",4,21
+Zip 06705,1_neighborhood,Low-income population,11536,income,Income,table,",",4,21
+Zip 06706,1_neighborhood,Low-income population,7427,income,Income,table,",",4,21
+Zip 06708,1_neighborhood,Low-income population,10452,income,Income,table,",",4,21
+Zip 06710,1_neighborhood,Low-income population,6101,income,Income,table,",",4,21
+Connecticut,3_state,Low-income rate,0.233,income,Income,map,.0%,5,22
+Waterbury,2_city,Low-income rate,0.483,income,Income,map,.0%,5,22
+Zip 06702,1_neighborhood,Low-income rate,0.784,income,Income,map,.0%,5,22
+Zip 06704,1_neighborhood,Low-income rate,0.558,income,Income,map,.0%,5,22
+Zip 06705,1_neighborhood,Low-income rate,0.431,income,Income,map,.0%,5,22
+Zip 06706,1_neighborhood,Low-income rate,0.509,income,Income,map,.0%,5,22
+Zip 06708,1_neighborhood,Low-income rate,0.377,income,Income,map,.0%,5,22
+Zip 06710,1_neighborhood,Low-income rate,0.596,income,Income,map,.0%,5,22
+Connecticut,3_state,Middle-income population,2667552,income,Income,table,",",6,23
+Waterbury,2_city,Middle-income population,55586,income,Income,table,",",6,23
+Zip 06702,1_neighborhood,Middle-income population,596,income,Income,table,",",6,23
+Zip 06704,1_neighborhood,Middle-income population,11238,income,Income,table,",",6,23
+Zip 06705,1_neighborhood,Middle-income population,15215,income,Income,table,",",6,23
+Zip 06706,1_neighborhood,Middle-income population,7155,income,Income,table,",",6,23
+Zip 06708,1_neighborhood,Middle-income population,17282,income,Income,table,",",6,23
+Zip 06710,1_neighborhood,Middle-income population,4129,income,Income,table,",",6,23
+Connecticut,3_state,Middle-income rate,0.767,income,Income,map,.0%,7,24
+Waterbury,2_city,Middle-income rate,0.517,income,Income,map,.0%,7,24
+Zip 06702,1_neighborhood,Middle-income rate,0.216,income,Income,map,.0%,7,24
+Zip 06704,1_neighborhood,Middle-income rate,0.442,income,Income,map,.0%,7,24
+Zip 06705,1_neighborhood,Middle-income rate,0.569,income,Income,map,.0%,7,24
+Zip 06706,1_neighborhood,Middle-income rate,0.491,income,Income,map,.0%,7,24
+Zip 06708,1_neighborhood,Middle-income rate,0.623,income,Income,map,.0%,7,24
+Zip 06710,1_neighborhood,Middle-income rate,0.404,income,Income,map,.0%,7,24
+Connecticut,3_state,Total population,3588570,immigration,Immigration,table,",",1,25
+Waterbury,2_city,Total population,109211,immigration,Immigration,table,",",1,25
+Zip 06702,1_neighborhood,Total population,3057,immigration,Immigration,table,",",1,25
+Zip 06704,1_neighborhood,Total population,25537,immigration,Immigration,table,",",1,25
+Zip 06705,1_neighborhood,Total population,27195,immigration,Immigration,table,",",1,25
+Zip 06706,1_neighborhood,Total population,14637,immigration,Immigration,table,",",1,25
+Zip 06708,1_neighborhood,Total population,28310,immigration,Immigration,table,",",1,25
+Zip 06710,1_neighborhood,Total population,10521,immigration,Immigration,table,",",1,25
+Connecticut,3_state,Foreign-born population,503209,immigration,Immigration,table,",",2,26
+Waterbury,2_city,Foreign-born population,17428,immigration,Immigration,table,",",2,26
+Zip 06702,1_neighborhood,Foreign-born population,500,immigration,Immigration,table,",",2,26
+Zip 06704,1_neighborhood,Foreign-born population,3143,immigration,Immigration,table,",",2,26
+Zip 06705,1_neighborhood,Foreign-born population,5256,immigration,Immigration,table,",",2,26
+Zip 06706,1_neighborhood,Foreign-born population,2500,immigration,Immigration,table,",",2,26
+Zip 06708,1_neighborhood,Foreign-born population,4529,immigration,Immigration,table,",",2,26
+Zip 06710,1_neighborhood,Foreign-born population,1494,immigration,Immigration,table,",",2,26
+Connecticut,3_state,Percent foreign-born,0.14,immigration,Immigration,map,.0%,3,27
+Waterbury,2_city,Percent foreign-born,0.16,immigration,Immigration,map,.0%,3,27
+Zip 06702,1_neighborhood,Percent foreign-born,0.164,immigration,Immigration,map,.0%,3,27
+Zip 06704,1_neighborhood,Percent foreign-born,0.123,immigration,Immigration,map,.0%,3,27
+Zip 06705,1_neighborhood,Percent foreign-born,0.193,immigration,Immigration,map,.0%,3,27
+Zip 06706,1_neighborhood,Percent foreign-born,0.171,immigration,Immigration,map,.0%,3,27
+Zip 06708,1_neighborhood,Percent foreign-born,0.16,immigration,Immigration,map,.0%,3,27
+Zip 06710,1_neighborhood,Percent foreign-born,0.142,immigration,Immigration,map,.0%,3,27
+Connecticut,3_state,"Under 18, poverty status known",763850,income_kids,Income by age: children,table,",",1,28
+Waterbury,2_city,"Under 18, poverty status known",27827,income_kids,Income by age: children,table,",",1,28
+Zip 06702,1_neighborhood,"Under 18, poverty status known",433,income_kids,Income by age: children,table,",",1,28
+Zip 06704,1_neighborhood,"Under 18, poverty status known",6977,income_kids,Income by age: children,table,",",1,28
+Zip 06705,1_neighborhood,"Under 18, poverty status known",6752,income_kids,Income by age: children,table,",",1,28
+Zip 06706,1_neighborhood,"Under 18, poverty status known",3923,income_kids,Income by age: children,table,",",1,28
+Zip 06708,1_neighborhood,"Under 18, poverty status known",6366,income_kids,Income by age: children,table,",",1,28
+Zip 06710,1_neighborhood,"Under 18, poverty status known",3400,income_kids,Income by age: children,table,",",1,28
+Connecticut,3_state,Children in poverty,107690,income_kids,Income by age: children,table,",",2,29
+Waterbury,2_city,Children in poverty,10522,income_kids,Income by age: children,table,",",2,29
+Zip 06702,1_neighborhood,Children in poverty,222,income_kids,Income by age: children,table,",",2,29
+Zip 06704,1_neighborhood,Children in poverty,3086,income_kids,Income by age: children,table,",",2,29
+Zip 06705,1_neighborhood,Children in poverty,1829,income_kids,Income by age: children,table,",",2,29
+Zip 06706,1_neighborhood,Children in poverty,1674,income_kids,Income by age: children,table,",",2,29
+Zip 06708,1_neighborhood,Children in poverty,2064,income_kids,Income by age: children,table,",",2,29
+Zip 06710,1_neighborhood,Children in poverty,1647,income_kids,Income by age: children,table,",",2,29
+Connecticut,3_state,Child poverty rate,0.141,income_kids,Income by age: children,map,.0%,3,30
+Waterbury,2_city,Child poverty rate,0.378,income_kids,Income by age: children,map,.0%,3,30
+Zip 06702,1_neighborhood,Child poverty rate,0.513,income_kids,Income by age: children,map,.0%,3,30
+Zip 06704,1_neighborhood,Child poverty rate,0.442,income_kids,Income by age: children,map,.0%,3,30
+Zip 06705,1_neighborhood,Child poverty rate,0.271,income_kids,Income by age: children,map,.0%,3,30
+Zip 06706,1_neighborhood,Child poverty rate,0.427,income_kids,Income by age: children,map,.0%,3,30
+Zip 06708,1_neighborhood,Child poverty rate,0.324,income_kids,Income by age: children,map,.0%,3,30
+Zip 06710,1_neighborhood,Child poverty rate,0.484,income_kids,Income by age: children,map,.0%,3,30
+Connecticut,3_state,Low-income children,229817,income_kids,Income by age: children,table,",",4,31
+Waterbury,2_city,Low-income children,18483,income_kids,Income by age: children,table,",",4,31
+Zip 06702,1_neighborhood,Low-income children,374,income_kids,Income by age: children,table,",",4,31
+Zip 06704,1_neighborhood,Low-income children,5091,income_kids,Income by age: children,table,",",4,31
+Zip 06705,1_neighborhood,Low-income children,4221,income_kids,Income by age: children,table,",",4,31
+Zip 06706,1_neighborhood,Low-income children,2775,income_kids,Income by age: children,table,",",4,31
+Zip 06708,1_neighborhood,Low-income children,3552,income_kids,Income by age: children,table,",",4,31
+Zip 06710,1_neighborhood,Low-income children,2470,income_kids,Income by age: children,table,",",4,31
+Connecticut,3_state,Child low-income rate,0.301,income_kids,Income by age: children,map,.0%,5,32
+Waterbury,2_city,Child low-income rate,0.664,income_kids,Income by age: children,map,.0%,5,32
+Zip 06702,1_neighborhood,Child low-income rate,0.864,income_kids,Income by age: children,map,.0%,5,32
+Zip 06704,1_neighborhood,Child low-income rate,0.73,income_kids,Income by age: children,map,.0%,5,32
+Zip 06705,1_neighborhood,Child low-income rate,0.625,income_kids,Income by age: children,map,.0%,5,32
+Zip 06706,1_neighborhood,Child low-income rate,0.707,income_kids,Income by age: children,map,.0%,5,32
+Zip 06708,1_neighborhood,Child low-income rate,0.558,income_kids,Income by age: children,map,.0%,5,32
+Zip 06710,1_neighborhood,Child low-income rate,0.726,income_kids,Income by age: children,map,.0%,5,32
+Connecticut,3_state,"Ages 65+, poverty status known",533413,income_seniors,Income by age: seniors,table,",",1,33
+Waterbury,2_city,"Ages 65+, poverty status known",12634,income_seniors,Income by age: seniors,table,",",1,33
+Zip 06702,1_neighborhood,"Ages 65+, poverty status known",713,income_seniors,Income by age: seniors,table,",",1,33
+Zip 06704,1_neighborhood,"Ages 65+, poverty status known",2607,income_seniors,Income by age: seniors,table,",",1,33
+Zip 06705,1_neighborhood,"Ages 65+, poverty status known",3359,income_seniors,Income by age: seniors,table,",",1,33
+Zip 06706,1_neighborhood,"Ages 65+, poverty status known",1553,income_seniors,Income by age: seniors,table,",",1,33
+Zip 06708,1_neighborhood,"Ages 65+, poverty status known",3666,income_seniors,Income by age: seniors,table,",",1,33
+Zip 06710,1_neighborhood,"Ages 65+, poverty status known",721,income_seniors,Income by age: seniors,table,",",1,33
+Connecticut,3_state,Seniors in poverty,38003,income_seniors,Income by age: seniors,table,",",2,34
+Waterbury,2_city,Seniors in poverty,1940,income_seniors,Income by age: seniors,table,",",2,34
+Zip 06702,1_neighborhood,Seniors in poverty,379,income_seniors,Income by age: seniors,table,",",2,34
+Zip 06704,1_neighborhood,Seniors in poverty,436,income_seniors,Income by age: seniors,table,",",2,34
+Zip 06705,1_neighborhood,Seniors in poverty,384,income_seniors,Income by age: seniors,table,",",2,34
+Zip 06706,1_neighborhood,Seniors in poverty,325,income_seniors,Income by age: seniors,table,",",2,34
+Zip 06708,1_neighborhood,Seniors in poverty,305,income_seniors,Income by age: seniors,table,",",2,34
+Zip 06710,1_neighborhood,Seniors in poverty,111,income_seniors,Income by age: seniors,table,",",2,34
+Connecticut,3_state,Senior poverty rate,0.071,income_seniors,Income by age: seniors,map,.0%,3,35
+Waterbury,2_city,Senior poverty rate,0.154,income_seniors,Income by age: seniors,map,.0%,3,35
+Zip 06702,1_neighborhood,Senior poverty rate,0.532,income_seniors,Income by age: seniors,map,.0%,3,35
+Zip 06704,1_neighborhood,Senior poverty rate,0.167,income_seniors,Income by age: seniors,map,.0%,3,35
+Zip 06705,1_neighborhood,Senior poverty rate,0.114,income_seniors,Income by age: seniors,map,.0%,3,35
+Zip 06706,1_neighborhood,Senior poverty rate,0.209,income_seniors,Income by age: seniors,map,.0%,3,35
+Zip 06708,1_neighborhood,Senior poverty rate,0.083,income_seniors,Income by age: seniors,map,.0%,3,35
+Zip 06710,1_neighborhood,Senior poverty rate,0.154,income_seniors,Income by age: seniors,map,.0%,3,35
+Connecticut,3_state,Low-income seniors,122224,income_seniors,Income by age: seniors,table,",",4,36
+Waterbury,2_city,Low-income seniors,5247,income_seniors,Income by age: seniors,table,",",4,36
+Zip 06702,1_neighborhood,Low-income seniors,615,income_seniors,Income by age: seniors,table,",",4,36
+Zip 06704,1_neighborhood,Low-income seniors,1174,income_seniors,Income by age: seniors,table,",",4,36
+Zip 06705,1_neighborhood,Low-income seniors,1203,income_seniors,Income by age: seniors,table,",",4,36
+Zip 06706,1_neighborhood,Low-income seniors,726,income_seniors,Income by age: seniors,table,",",4,36
+Zip 06708,1_neighborhood,Low-income seniors,1223,income_seniors,Income by age: seniors,table,",",4,36
+Zip 06710,1_neighborhood,Low-income seniors,306,income_seniors,Income by age: seniors,table,",",4,36
+Connecticut,3_state,Senior low-income rate,0.229,income_seniors,Income by age: seniors,map,.0%,5,37
+Waterbury,2_city,Senior low-income rate,0.415,income_seniors,Income by age: seniors,map,.0%,5,37
+Zip 06702,1_neighborhood,Senior low-income rate,0.863,income_seniors,Income by age: seniors,map,.0%,5,37
+Zip 06704,1_neighborhood,Senior low-income rate,0.45,income_seniors,Income by age: seniors,map,.0%,5,37
+Zip 06705,1_neighborhood,Senior low-income rate,0.358,income_seniors,Income by age: seniors,map,.0%,5,37
+Zip 06706,1_neighborhood,Senior low-income rate,0.467,income_seniors,Income by age: seniors,map,.0%,5,37
+Zip 06708,1_neighborhood,Senior low-income rate,0.334,income_seniors,Income by age: seniors,map,.0%,5,37
+Zip 06710,1_neighborhood,Senior low-income rate,0.424,income_seniors,Income by age: seniors,map,.0%,5,37
