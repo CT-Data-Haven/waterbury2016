@@ -1,8 +1,6 @@
 import React from 'react';
-import * as _ from 'underscore';
 import { format } from 'd3-format';
-import { extent, max } from 'd3-array';
-import { ScaleSVG } from '@vx/responsive';
+import { max } from 'd3-array';
 import { Bar } from '@vx/shape';
 import { Group } from '@vx/group';
 import { AxisBottom, AxisLeft } from '@vx/axis';

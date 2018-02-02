@@ -5,13 +5,12 @@ import { LegendThreshold } from '@vx/legend';
 import * as topojson from 'topojson-client';
 import { format } from 'd3-format';
 import Tooltip from 'react-portal-tooltip';
-import { Col } from 'react-bootstrap';
 
 import topology from './wby_shape.json';
 import '../styles/CityMap.css';
 
-const center = [-73.037419, 41.56];
-const shape = topojson.feature(topology, topology.objects.wby_shape);
+// const center = [-73.037419, 41.56];
+// const shape = topojson.feature(topology, topology.objects.wby_shape);
 
 const tipStyle = {
 	style: {
@@ -73,6 +72,7 @@ export default class CityMap extends React.Component {
 	}
 
 	render() {
+		const shape = topojson.feature(topology, topology.objects.wby_shape);
 		let width = this.props.width;
 
 		return (
@@ -81,10 +81,10 @@ export default class CityMap extends React.Component {
 					<Mercator
 						data={shape.features}
 						id={this.makeId}
-						scale={210000}
-						center={center}
-						translate={[ width / 2, width / 2 ]}
-						// fitSize={[width, width, shape]}
+						// scale={210000}
+						// center={center}
+						// translate={[ width / 2, width / 2 ]}
+						fitSize={[[width, width], shape]}
 						stroke={'#777'}
 						fill={this.updateColor}
 						onClick={(geography) => (event) => {
@@ -101,8 +101,10 @@ export default class CityMap extends React.Component {
 
 				<div className="legend-container"
 					style={{
-						position: this.props.collapse ? 'relative' : 'absolute',
-						bottom: '3em'
+						// position: this.props.collapse ? 'relative' : 'absolute',
+						position: 'absolute',
+						top: '4em',
+						right: '4em'
 					}}>
 					<LegendThreshold
 						scale={this.props.color}

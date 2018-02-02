@@ -35,7 +35,7 @@ class App extends React.Component {
 			hood: 'Zip 06702',
 			color: scaleThreshold({ domain: [0, 1], range: ['#ccc'] }),
 			viz: 'map',
-			tabWidth: 600
+			tabWidth: 400
 		};
 		// this.onResize = this.onResize.bind(this);
 		this.onResize = this.onResize.bind(this);
@@ -84,7 +84,6 @@ class App extends React.Component {
 	};
 
 	onResize = (w) => {
-		console.log(w);
 		this.setState({
 			tabWidth: Math.round(0.9 * w)
 		});
@@ -159,7 +158,7 @@ class App extends React.Component {
 												<CityMap
 													url={mapUrl}
 													// width={this.state.width}
-													width={600}
+													width={400}
 													handleClick={this.handleShapeClick}
 													data={this.state.toMap}
 													color={this.state.color}
@@ -171,7 +170,7 @@ class App extends React.Component {
 													// size={[this.state.width, this.state.width]}
 													// size={[600, 400]}
 													width={this.state.tabWidth}
-													height={480}
+													height={400}
 													handleClick={this.handleBarClick}
 													data={this.state.toChart}
 													hood={this.state.hood}
