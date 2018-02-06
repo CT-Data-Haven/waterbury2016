@@ -59,9 +59,10 @@ class App extends React.Component {
 		this.updateMenus(this.state.topic, e.target.value);
 	};
 
-	handleShapeClick = (e) => {
+	handleShapeClick = (hood) => {
 		this.setState({
-			hood: e.properties.Zip
+			// hood: e.properties.Zip
+			hood
 		});
 	};
 
@@ -170,7 +171,7 @@ class App extends React.Component {
 													// size={[this.state.width, this.state.width]}
 													// size={[600, 400]}
 													width={this.state.tabWidth}
-													height={400}
+													height={300}
 													handleClick={this.handleBarClick}
 													data={this.state.toChart}
 													hood={this.state.hood}
